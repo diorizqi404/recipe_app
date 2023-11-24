@@ -8,7 +8,7 @@ Membuat aplikasi sederhanya yang dapat menampilkan list resep makanan. Aplikasi 
 
 ## Preview
 
-![App Screenshot](./Preview.mp4)
+![App Screenshot](./Preview.jpg)
 
 
 ## Run Locally
