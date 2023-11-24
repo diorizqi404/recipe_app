@@ -1,16 +1,38 @@
-# recipe_app
 
-A new Flutter project.
+# Recipe App
 
-## Getting Started
+Membuat aplikasi sederhanya yang dapat menampilkan list resep makanan. Aplikasi ini dibuat menggunakan Flutter. Projek ini merupakan materi kegiatan it_club 24 Nov 2023.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+
+![App Screenshot](./Preview.mp4)
+
+
+## Run Locally
+
+Clone the project (or download .zip & extract)
+
+```bash
+  git clone https://github.com/diorizqi404/recipe_app.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Get Packages
+
+```bash
+  flutter pub get
+```
+
+Run the application (make sure emulator is running)
+
+```bash
+  flutter run
+```
